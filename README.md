@@ -4,19 +4,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">React-Native developer from Russia 🇷🇺</h3>
 
-<h4>Code examples:</h4>
-<ul>
-  <li>
-      <a href="https://github.com/trusasha/nytimes-app">react-native-reanimated</a>
-  </li>
-  <li>
-      <a href="https://github.com/trusasha/transitions-app">react-native-shared-element, react-native-animatable</a>
-  </li>
-    <li>
-      <a href="https://github.com/trusasha/podcast-app">graphql, @apollo/client</a>
-  </li>
-</ul>
-
 <!--
 **trusasha/trusasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
